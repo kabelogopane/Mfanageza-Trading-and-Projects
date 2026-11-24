@@ -1,30 +1,68 @@
 # Mfanageza Trading and Projects
+## Website project
 
-Official website project for **Mfanageza Trading and Projects (Pty) Ltd**, a South African enterprise established in September 2020.
+This project contains the website for **Mfanageza Trading and Projects (Pty) Ltd**.
 
-## Website
-A responsive corporate website built with:
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Google Fonts
-- GitHub Pages
+The website is designed to help people understand the company, learn about its main areas of work and contact the team.
 
-## Local preview
-Open `index.html` in a browser, or use the VS Code Live Server extension.
+## View the website
 
-## Publish with GitHub Pages
-1. Open the repository's **Settings**.
-2. Select **Pages** in the sidebar.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select branch **main** and folder **/(root)**.
-5. Save and wait for GitHub Pages to publish.
+Planned website address:
 
-Expected website address:
 https://kabelogopane.github.io/Mfanageza-Trading-and-Projects/
 
-## Before launch
-- Confirm company service descriptions and programme details with the business.
-- Verify any accreditation or qualification claims before publishing them.
-- Confirm that the listed addresses and contact number are current and approved for public display.
-- Replace sample stock photography with company-owned photographs where available.
+The website address will work once publishing has been enabled and the latest version has finished going live.
+
+## What is included
+
+Visitors can:
+- Read about the company.
+- Learn about its focus on skills development, business services and project support.
+- Understand the company's approach to working with people and organisations.
+- View the business locations provided.
+- Call or contact the company through WhatsApp.
+
+The website is designed to work on computers, tablets and mobile phones.
+
+## Client handover guide
+
+The **CLIENT-HANDOVER.md** file explains the website in simple language. It covers the website sections, company information to check, photographs, contact links and the final review before launch.
+
+## Before the website is shared publicly
+
+Please confirm:
+- The company name, founder and establishment date.
+- The phone number and both business addresses.
+- That the services described are correct and currently offered.
+- That the photographs are approved for use. Some current photographs are sample stock images, not company photographs.
+- That any training, course or accreditation information is accurate and supported.
+- That the phone and WhatsApp links work.
+
+The current website does not claim that the company is a university, TVET college or accredited training provider. No specific qualification or course is advertised.
+
+## Publishing the website
+
+The website is planned to be published using GitHub Pages.
+
+If publishing has not yet been enabled:
+1. Open the project on GitHub.
+2. Select **Settings**.
+3. Select **Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Choose the **main** branch and the **/(root)** folder.
+6. Save and wait for the website to publish.
+
+After publishing, open the website address above and check it on both a computer and a mobile phone.
+
+## Project files
+
+- **index.html** – the words and sections visitors see on the website.
+- **styles.css** – the colours, layout and visual appearance.
+- **script.js** – small interactive features, such as the mobile navigation.
+- **CLIENT-HANDOVER.md** – the plain-language guide prepared for the company.
+
+You do not need to edit these files yourself to review the website. The person managing the project can make approved updates.
+
+---
+
+**Project status:** Website draft prepared; company details and final launch checks still need approval.
