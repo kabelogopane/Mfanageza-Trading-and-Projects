@@ -28,6 +28,8 @@ The website is designed to work on computers, tablets and mobile phones.
 
 The **CLIENT-HANDOVER.md** file explains the website in simple language. It covers the website sections, company information to check, photographs, contact links and the final review before launch.
 
+The **WEBSITE-AND-SALESFORCE-INTEGRATION.md** file explains the full website delivery plan and how the website can connect to the existing Mfanageza CRM Salesforce project. It separates completed work from proposed integration work and includes the recommended approach, privacy safeguards, delivery stages and testing checklist.
+
 ## Before the website is shared publicly
 
 Please confirm:
