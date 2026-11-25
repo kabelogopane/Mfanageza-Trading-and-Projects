@@ -86,3 +86,12 @@
 @media(max-width:900px){.tech-photo-frame{height:135px}}
 @media(max-width:760px){.tech-photo-frame{height:105px;margin:7px 0}}
 @media(max-width:600px){.tech-photo-frame{height:82px}}
+
+
+/* Text-only company identity: logo image intentionally omitted */
+.brand-text{display:flex;align-items:center;min-width:210px}
+.brand-text .brand-name{display:block;font:800 15px Manrope,sans-serif;letter-spacing:.09em;color:#102c66;line-height:1.25}
+.brand-text .brand-name small{display:block;font:700 9px "DM Sans",sans-serif;letter-spacing:.22em;margin-top:5px;color:#70839d}
+.brand-footer .brand-name{color:#fff}
+.brand-footer .brand-name small{color:#b6c8e6}
+@media(max-width:600px){.brand-text{min-width:0}.brand-text .brand-name{font-size:12px}.brand-text .brand-name small{font-size:8px}}
