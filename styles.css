@@ -77,3 +77,12 @@
   .brand-logo{width:62px;height:62px}
   .brand-footer .brand-logo{width:62px;height:62px}
 }
+
+
+/* Founder photo inside the Ideas into Action card */
+.tech-photo-frame{height:170px;margin:12px 0;overflow:hidden;border:1px solid #c3d9ff55;border-radius:9px;background:#102d61;box-shadow:inset 0 0 24px #020b2455}
+.tech-photo-frame img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 35%;border-radius:8px;filter:saturate(.92);transition:transform .5s ease}
+.hero-tech-card:hover .tech-photo-frame img{transform:scale(1.045)}
+@media(max-width:900px){.tech-photo-frame{height:135px}}
+@media(max-width:760px){.tech-photo-frame{height:105px;margin:7px 0}}
+@media(max-width:600px){.tech-photo-frame{height:82px}}
